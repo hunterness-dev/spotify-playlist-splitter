@@ -1,4 +1,3 @@
-# spotify-playlist-splitter
 # Spotify Playlist Splitter
 
 Split your big Spotify playlists into smaller ones!
